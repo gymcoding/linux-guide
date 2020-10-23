@@ -49,7 +49,7 @@ module.exports = {
         title: '기본 운영 명령어',
         collapsable: false,
         children: [
-          '/basic/background-process.md',
+          '/basic/nohup.md',
         ]
       }
     ]
